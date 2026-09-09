@@ -43,6 +43,8 @@ configuration:
          - blackrobot
          - bot-for-go[bot]
          - business-central-bot[bot]
+         - business-central-bug-fix-bot[bot]
+         - business-central-extensibility-bot[bot]
          - CBL-Mariner-Bot
          - content-assistant[bot]
          - Copilot
